@@ -1,3 +1,3 @@
 # code-agent
 
-hello
+根据claude code的实现创建扩展
