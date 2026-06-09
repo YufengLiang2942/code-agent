@@ -1,0 +1,18 @@
+{
+  "id": "task_1780928307_4587",
+  "subject": "在 ha_test2.txt 中写入 hello from teammate",
+  "description": "在 ha_test2.txt 文件中写入内容 \"hello from teammate\"",
+  "status": "completed",
+  "owner": "ha-worker",
+  "blockedBy": [],
+  "worktree": null,
+  "error": null,
+  "attempts": 1,
+  "max_attempts": 3,
+  "claimed_at": 1780928322.558458,
+  "heartbeat_at": null,
+  "completed_at": 1780928334.738561,
+  "failed_at": null,
+  "created_at": 1780928307.3462353,
+  "updated_at": 1780928334.738561
+}

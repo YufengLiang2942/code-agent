@@ -1,0 +1,14 @@
+{
+  "id": "23fdec7c-8214-4c90-8faf-e7d70858d75c",
+  "protocol": "plan_approval",
+  "sender": "worker",
+  "recipient": "lead",
+  "task_id": "task_demo",
+  "status": "approved",
+  "payload": {
+    "plan": "1. 读取目标文件内容\n2. 修改文件中的标题\n3. 运行检查确保修改无误"
+  },
+  "response": "",
+  "created_at": 1780823590.5858817,
+  "updated_at": 1780823667.140728
+}

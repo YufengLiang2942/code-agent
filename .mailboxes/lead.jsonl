@@ -1,0 +1,1 @@
+{"id": "8cf118f0-9497-4d09-a288-6bec6d0d623e", "sender": "worker", "recipient": "lead", "content": "{\n  \"protocol\": \"plan_approval\",\n  \"request_id\": \"23fdec7c-8214-4c90-8faf-e7d70858d75c\",\n  \"task_id\": \"task_demo\",\n  \"status\": \"pending\",\n  \"plan\": \"1. 读取目标文件内容\\n2. 修改文件中的标题\\n3. 运行检查确保修改无误\"\n}", "created_at": 1780823590.588004, "read": false}
