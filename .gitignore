@@ -10,3 +10,13 @@ wheels/
 .venv
 
 .env
+.logs
+.mailboxes
+.protocols
+.tasks
+.transcripts
+.memory
+.vscode
+.worktrees
+code.py
+code copy.py
