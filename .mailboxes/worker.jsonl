@@ -1,2 +1,0 @@
-{"id": "803e3c93-2778-43c9-8dbf-07adcb733730", "sender": "user", "recipient": "worker", "content": "请检查 index.html 的结构", "created_at": 1780822620.837011, "read": true}
-{"id": "b7581c0f-be6f-4f91-bf26-1d993a7a406f", "sender": "lead", "recipient": "worker", "content": "{\n  \"protocol\": \"plan_approval_response\",\n  \"request_id\": \"23fdec7c-8214-4c90-8faf-e7d70858d75c\",\n  \"task_id\": \"task_demo\",\n  \"status\": \"approved\",\n  \"reviewer\": \"lead\",\n  \"comment\": \"\"\n}", "created_at": 1780823667.140728, "read": true}
